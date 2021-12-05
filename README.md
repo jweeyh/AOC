@@ -1,3 +1,3 @@
 # AOC
-Attempts to solve AOC using Java
-Pretty messy, lots of work to be done haha
+Attempts to solve AOC 2021 using Java
+Using basic concepts learnt in Y1S1 in uni.
